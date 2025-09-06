@@ -29,6 +29,8 @@ Also download the FFmpeg  binary on your system and add its **\bin** folder to y
 [Follow the official docs to setup Flutter on your PC.](https://docs.flutter.dev/get-started/install/windows/mobile)
 Also make sure to  add your ip address  in OverlayWidgets.dart in the the argument of generateTranscription() .
 
+**Don't touch backend files, all the issues are for frontend.**
+
 
 
 
